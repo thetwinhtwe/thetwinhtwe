@@ -18,3 +18,7 @@
 [twitter]: https://twitter.com/thetwinhtwe
 [instagram]: https://instagram.com/thetwinhtwe2020
 [linkedin]: https://linkedin.com/in/thetwinhtwe
+
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetwinhtwe)](https://github.com/thetwinhtwe)
