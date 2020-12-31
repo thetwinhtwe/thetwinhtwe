@@ -1,4 +1,4 @@
-### Hello Forkers, I'm Thet Win Htwe.
+### Hey folks!, I'm Thet Win Htwe.
 
 [![Website](https://img.shields.io/github/followers/thetwinhtwe?label=Thet%20Win%20Htwe&style=social)](https://github.com/thetwinhtwe)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thetwinhtwe?label=Thet%20Win%20Htwe&style=social)](https://twitter.com/thetwinhtwe)
