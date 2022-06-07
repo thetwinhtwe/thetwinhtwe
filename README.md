@@ -21,4 +21,6 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetwinhtwe&show_icons=true)](https://github.com/thetwinhtwe)
+[![Thet Win Htwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetwinhtwe&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetwinhtwe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
